@@ -11,7 +11,9 @@ const Starter = () => {
       We specialize in buying and selling remelted lead, battery scrap, iron scrap, steel, copper, and aluminum worldwide.
       </p>
       </div>
-      <div className="flex flex-1"></div>
+      <div className="flex flex-1 md:px-3 px-3 md:mt-0 mt-9">
+        <img src='/img5.jpeg' className='rounded-lg'/>
+      </div>
     </div>
   )
 }

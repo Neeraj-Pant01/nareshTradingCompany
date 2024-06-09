@@ -3,7 +3,7 @@ import { features } from '../data'
 
 const Features = () => {
   return (
-    <div className='flex flex-col md:px-10 px-3 py-5 mt-[100px]'>
+    <div className='flex flex-col md:px-10 px-3 py-5 md:mt-[150px] mt-[100px]'>
       <h1 className='text-[#13274F] md:text-4xl text-2xl text-center mb-4'>Why Choose Us?</h1>
       <div className='flex md:flex-row flex-col md:flex-wrap items-center justify-center gap-3'>
       {
