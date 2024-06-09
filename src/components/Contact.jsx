@@ -46,7 +46,8 @@ const Contact = () => {
       </div>
       <div className='flex md:flex-row md:items-center md:gap-4 flex-col w-[90%]'>
         <b className='text-lg'>Locality/Sub Locality:</b>
-        <span className='text-lg text-[grey]'>Old Industrial Arear Bahadurgarh</span>
+        <span className='text-lg text-[grey]'>Old Industrial Area Bahadurgarh</span>
+        <span className='text-lg text-[grey]'>Haryana - 124507</span>
       </div>
       <div className='flex md:flex-row md:items-center md:gap-4 flex-col w-[90%]'>
         <b className='text-lg'>City/Town/Village:</b>

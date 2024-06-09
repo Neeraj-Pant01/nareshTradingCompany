@@ -4,7 +4,9 @@ const images = [
     "/img1.jpeg",
     "/img2.jpeg",
     "/img3.jpeg",
-    "/img4.jpeg"
+    "/img4.jpeg",
+    "/img6.jpeg",
+    "/img7.jpeg"
 ]
 
 const Products = () => {

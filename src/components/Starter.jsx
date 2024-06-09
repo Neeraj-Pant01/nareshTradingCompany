@@ -8,7 +8,7 @@ const Starter = () => {
       Your virtual portal for worldwide old scrap transactions
       </p>
       <p className='text-[#13274F] w-[80%] mt-4 md:text-2xl text-lg'>
-      We specialize in buying and selling remelted lead, battery scrap, iron scrap, steel, copper, and aluminum worldwide.
+      We specialize in buying and selling remelted lead, battery scrap, iron MS scrap, steel, copper, and aluminum worldwide.
       </p>
       </div>
       <div className="flex flex-1 md:px-3 px-3 md:mt-0 mt-9">
